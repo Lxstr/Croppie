@@ -1,3 +1,5 @@
+A fork of croppie stripped down to show how to use the upload example.
+
 # Croppie - A Javascript Image Cropper
 
 

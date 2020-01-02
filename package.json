@@ -36,5 +36,12 @@
     "croppie.css",
     "croppie.js",
     "croppie.min.js"
-  ]
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "dependencies": {
+    "sweet-alert": "^2.0.5"
+  }
 }
